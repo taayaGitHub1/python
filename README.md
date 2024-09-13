@@ -1,12 +1,18 @@
 This file will contain everything that I learned at a month session of python language.
 
 Day-C
+
 -Tab contains 4 spaces.
+
 -For function creation def key word is used.
+
  Eg:def gradecalc(mark):
-   ...
-   ...
-   ...
+ 
+   .......
+   
+   .......
+   
+   .......
 
 Day-E
 -Docstring: String literals used to document code i.e. using triple single quotes ''' ''' or triple double quotes""" """.
