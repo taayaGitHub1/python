@@ -133,8 +133,6 @@ if __name__== '__main__'  makes script in python, dunder method, magic method
 	'0123456789'
 	
 -pypi.org has all package.
-theory of designing
-srs 
 - ctrl+K+ctrl+O: minimize function and to open again ctrl+k+ctrl+J
 - ctrl+J : terminal opens
 vps server, cloud server, solutizon architech
